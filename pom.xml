@@ -74,7 +74,7 @@ under the License.
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			<version>1.2.51</version>
+			<version>1.2.83</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.flink</groupId>
@@ -101,7 +101,7 @@ under the License.
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			<version>1.2.51</version>
+			<version>1.2.83</version>
 		</dependency>
 		<!-- Add connector dependencies here. They must be in the default scope (compile). -->
 
